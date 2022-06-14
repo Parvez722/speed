@@ -10,3 +10,4 @@ echo 'speedtest
 
 ./run.sh' > run.sh
 chmod +x *
+cd
